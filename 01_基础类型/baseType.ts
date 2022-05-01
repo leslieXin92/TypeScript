@@ -82,4 +82,4 @@ console.log(reverseStr('yahoo'))
 function calcStrLength(str: string): number {
     return str.length
 }
-console.log(calcStrLength('yahoo')) 
+console.log(calcStrLength('yahoo'))  
