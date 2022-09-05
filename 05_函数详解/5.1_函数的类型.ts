@@ -9,7 +9,7 @@ function b(fn: AType) {
 b(a)
 
 // 2、定义常量时，编写函数的类型
-type sumFnType = (a: number, b: number) => void
+type sumFnType = (a: number, b: number) => number
 const sum: sumFnType = (a: number, b: number) => {
 	return a + b
 }
