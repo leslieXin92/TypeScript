@@ -17,3 +17,7 @@ const student: IStudent = {
 	eat() {},
 	run() {}
 }
+
+function running(runner: IAnimal) {
+	runner.run()
+}
