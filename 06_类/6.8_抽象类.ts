@@ -2,6 +2,7 @@ function calcArea(shape: Shape) {
 	return shape.getArea()
 }
 
+// 抽象类不能new实例
 abstract class Shape {
 	abstract getArea() // 抽象函数不能有函数体
 }
