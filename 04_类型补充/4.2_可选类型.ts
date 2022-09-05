@@ -4,3 +4,5 @@ function logMsg(msg?: string) {
 
 logMsg('hello world') // hello world
 logMsg() // undefined
+
+export {}

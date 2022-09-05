@@ -50,3 +50,5 @@ function walkWay(animal: Fish | Dog) {
 		animal.running()
 	}
 }
+
+export {}

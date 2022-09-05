@@ -11,3 +11,5 @@ function logInfo(info: string | number) {
 
 logInfo('leslie')
 logInfo(24)
+
+export {}

@@ -8,3 +8,5 @@ const num: number = msg as any as number // 不推荐这么搞
 function logMsgLen(msg?: string) {
 	console.log(msg!.length)
 }
+
+export {}

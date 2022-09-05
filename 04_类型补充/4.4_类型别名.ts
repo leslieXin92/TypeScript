@@ -7,3 +7,5 @@ function logMsg(msg: MsgType) {
 function alertMsg(msg: MsgType) {
 	alert(msg)
 }
+
+export {}

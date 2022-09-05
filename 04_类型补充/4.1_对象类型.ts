@@ -4,3 +4,5 @@ function test(info: { name: string; age: number }) {
 }
 
 test({ name: 'leslie', age: 24 })
+
+export {}

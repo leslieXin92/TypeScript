@@ -20,3 +20,5 @@ function handleMsg(msg: string | number) {
 			const check: never = msg
 	}
 }
+
+export {}

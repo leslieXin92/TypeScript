@@ -6,3 +6,5 @@ function showMsgLen(msg: string) {
 }
 // showMsgLen(123)
 // showMsgLen()
+
+export {}

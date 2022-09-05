@@ -16,3 +16,5 @@ const info: Person = {
 }
 
 console.log(info.friend?.age)
+
+export {}

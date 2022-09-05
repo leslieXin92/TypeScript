@@ -5,3 +5,5 @@ const info = {
 	[study1]: 'vue3',
 	[study2]: 'TypeScript'
 }
+
+export {}

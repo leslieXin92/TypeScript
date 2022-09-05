@@ -10,3 +10,5 @@ const options = {
 } as const
 
 request(options.url, options.method as Methods)
+
+export {}

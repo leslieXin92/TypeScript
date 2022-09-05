@@ -7,3 +7,5 @@ let n2: string = null
 n2 = 'aaa'
 
 let u: undefined = undefined
+
+export {}

@@ -16,3 +16,5 @@ if (flag) {
 } else {
 	res = getAge()
 }
+
+export {}

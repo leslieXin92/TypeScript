@@ -8,3 +8,5 @@ const info2 = {
 	name: 'cabbage',
 	age: 23
 }
+
+export {}

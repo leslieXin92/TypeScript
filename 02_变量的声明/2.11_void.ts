@@ -6,3 +6,5 @@ function test(num: number): void {
 }
 
 test(number)
+
+export {}
