@@ -1,5 +1,5 @@
 enum Direction {
-	LEFT,
+	LEFT, // 默认为number 0，下边递增，可 = 100 或 = ‘leslie’ 等赋默认值
 	RIGHT,
 	TOP,
 	BOTTOM
